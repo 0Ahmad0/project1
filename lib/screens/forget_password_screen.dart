@@ -2,10 +2,10 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/controller/forget_password_controller.dart';
-import 'package:p_1/widgets/create_button.dart';
-import 'package:p_1/widgets/text_input_filed.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/controller/forget_password_controller.dart';
+import 'package:project1/widgets/create_button.dart';
+import 'package:project1/widgets/text_input_filed.dart';
 
 import 'login_screen.dart';
 import 're_password_screen.dart';

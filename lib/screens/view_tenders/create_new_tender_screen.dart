@@ -1,8 +1,8 @@
 import 'package:date_format/date_format.dart';
 import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/widgets/text_input_filed.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/widgets/text_input_filed.dart';
 
 class CreateNewTender extends StatefulWidget {
   @override

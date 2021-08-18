@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/widgets/text_input_filed.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/widgets/text_input_filed.dart';
 
 import 'view_tenders/tender_details.dart';
 

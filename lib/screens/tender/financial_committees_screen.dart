@@ -1,8 +1,8 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/screens/tender/changing_committees_screen.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/screens/tender/changing_committees_screen.dart';
 
 class FinancialCommitteesScreen extends StatelessWidget {
   List<String> names = [

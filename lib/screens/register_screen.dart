@@ -1,13 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/controller/register_controller.dart';
-import 'package:p_1/controller/text_input_controller.dart';
-import 'package:p_1/screens/confirm_code/confirm_code.dart';
-import 'package:p_1/screens/forget_password_screen.dart';
-import 'package:p_1/widgets/create_button.dart';
-import 'package:p_1/widgets/text_input_filed.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/controller/register_controller.dart';
+import 'package:project1/controller/text_input_controller.dart';
+import 'package:project1/screens/confirm_code/confirm_code.dart';
+import 'package:project1/screens/forget_password_screen.dart';
+import 'package:project1/widgets/create_button.dart';
+import 'package:project1/widgets/text_input_filed.dart';
 
 class RegisterScreen extends StatelessWidget {
   final _formKey = GlobalKey<FormState>();

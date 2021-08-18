@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/helper_class/employee.dart';
-import 'package:p_1/screens/tender/employees_screen.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/helper_class/employee.dart';
+import 'package:project1/screens/tender/employees_screen.dart';
 
 class ChangingCommitteesScreen extends StatelessWidget {
   List<String> names = [

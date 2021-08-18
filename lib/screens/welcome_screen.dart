@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/screens/login_screen.dart';
-import 'package:p_1/screens/register_screen.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/screens/login_screen.dart';
+import 'package:project1/screens/register_screen.dart';
 import 'package:slide_button/slide_button.dart';
 
 class WelcomeScreen extends StatelessWidget {

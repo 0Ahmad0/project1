@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
+import 'package:project1/constants/const.dart';
 
 import '../company_screen.dart';
 

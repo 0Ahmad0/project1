@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:p_1/constants/const.dart';
+import 'package:project1/constants/const.dart';
 
 Divider buildDivider() {
   return Divider(

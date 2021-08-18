@@ -1,14 +1,14 @@
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/controller/login_controller.dart';
-import 'package:p_1/controller/text_input_controller.dart';
-import 'package:p_1/screens/forget_password_screen.dart';
-import 'package:p_1/screens/profile_screen.dart';
-import 'package:p_1/screens/register_screen.dart';
-import 'package:p_1/widgets/create_button.dart';
-import 'package:p_1/widgets/text_input_filed.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/controller/login_controller.dart';
+import 'package:project1/controller/text_input_controller.dart';
+import 'package:project1/screens/forget_password_screen.dart';
+import 'package:project1/screens/profile_screen.dart';
+import 'package:project1/screens/register_screen.dart';
+import 'package:project1/widgets/create_button.dart';
+import 'package:project1/widgets/text_input_filed.dart';
 
 class LogInScreen extends StatelessWidget {
   final _formKey = GlobalKey<FormState>();
@@ -137,6 +137,7 @@ class LogInScreen extends StatelessWidget {
                             Text('don\'t have account?'),
                             TextButton(
                               onPressed: () {
+
                                 Get.to(RegisterScreen(), transition: Transition.zoom);
                               },
                               child: Text(

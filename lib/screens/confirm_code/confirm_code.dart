@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:get/utils.dart';
-import 'package:p_1/screens/view_tenders/view_tenders.dart';
+import 'package:project1/screens/view_tenders/view_tenders.dart';
 
 import 'input_code_row_widget.dart';
 import 'package:get/get.dart';

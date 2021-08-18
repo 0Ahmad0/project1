@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:p_1/constants/const.dart';
-import 'package:p_1/screens/view_tenders/view_tenders.dart';
-import 'package:p_1/screens/welcome_screen.dart';
+import 'package:project1/constants/const.dart';
+import 'package:project1/screens/view_tenders/view_tenders.dart';
+import 'package:project1/screens/welcome_screen.dart';
 
 import 'screens/tender/financial_committees_screen.dart';
 
